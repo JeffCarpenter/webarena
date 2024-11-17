@@ -1,5 +1,5 @@
 gymnasium
-playwright~=1.39
+playwright~=1.48
 Pillow
 evaluate
 openai>=1
